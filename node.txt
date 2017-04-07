@@ -1,0 +1,12 @@
+-. 相关技术
+ 1.DW(data warehouse)
+ 2.CRM
+ 3.Bot Framework(https://dev.botframework.com/)
+ 
+-.简历
+ 1.韩文简历
+ 2.英文简历
+  
+-.
+ 
+ 
